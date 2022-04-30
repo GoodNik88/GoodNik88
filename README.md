@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoodNik88
+- 👋 Hi, I’m Nikolas Goodnik
 - 👀 I’m interested in Telegram Bots and Ice Hockey
 
 <!---
