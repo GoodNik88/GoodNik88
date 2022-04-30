@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikolas Goodnik
+- 👋 Hi, I’m Nikolas Postnikov
 - 👀 I’m interested in Telegram Bots and Ice Hockey
 
 <!---
